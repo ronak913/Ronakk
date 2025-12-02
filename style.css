@@ -1,0 +1,20 @@
+body {
+    background-image: url(https://images.pexels.com/photos/4197563/pexels-photo-4197563.jpeg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+p {
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    text-transform: capitalize;
+    font-size: 30px;
+    height: 80px;
+    width: 250px;
+    margin: auto;
+    margin-top: 30px;
+    align-items: center;
+    font-weight: 800;
+}
